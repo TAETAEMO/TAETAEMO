@@ -1,4 +1,4 @@
-### 반갑습니다 이제 막 성장하려는 새싹의  👋
+### 이제 막 성장하려는 새싹의 공간입니다 👋
 
 <!--
 **TAETAEMO/TAETAEMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
